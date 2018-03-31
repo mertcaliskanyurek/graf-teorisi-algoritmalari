@@ -2,5 +2,4 @@
 main()
 {
 	printf("merhaba git");
-	printf("Degisisklik");
 }
