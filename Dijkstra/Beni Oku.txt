@@ -1,0 +1,11 @@
+** Dijkstra algoritmasý **
+# Program girdi olarak gezmeye baþlanacaðý düðümü alýr
+# Program çýktýsý þöyledir
+#	ilk stunda düðüm numarasý yer alýr
+#	* içeren bölgeler 'gidildi ve komþularý güncellendi' anlamýný taþýr
+#	ikinci stunda o düðüme gelmenin toplam maaliyeti yer alýr
+#	üçüncü stunda o düðüme hangi düðümden gelindiði yer alýr
+# matrix.amd dosyasýnýn içeriði þöyledir:
+# 	ilk satýr kaç tane düðümün (merkezin) olduðunu söyler
+#	geri kalaný standart aðýrlýklý matristir. Baðlantýnýn olmadýðý yerlerin aðýrlýðý 0 dýr
+## Program adým adým 'enter' tuþuna basarak çalýþýr. Asýl amaç algoritmanýn anlaþýlmasýdýr
